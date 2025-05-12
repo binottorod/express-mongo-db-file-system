@@ -1,0 +1,31 @@
+{
+  "name": "express-mongo-db-file-system",
+  "version": "1.0.0",
+  "description": "Example of Express and MongoDB to model a file system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binottorod/express-mongo-db-file-system.git"
+  },
+  "keywords": [
+    "Express",
+    "MongoDB",
+    "file",
+    "system"
+  ],
+  "author": "binottorod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binottorod/express-mongo-db-file-system/issues"
+  },
+  "homepage": "https://github.com/binottorod/express-mongo-db-file-system#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.2"
+  }
+}
