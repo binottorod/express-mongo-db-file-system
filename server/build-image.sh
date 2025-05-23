@@ -1,0 +1,1 @@
+docker build -t binottorod/mongo-file-system-server:1.0.0 .
